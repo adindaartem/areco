@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Forest_Bear" size="0.070000 0.070000" />
+    <ImageTarget name="Marine_Fish" size="0.070000 0.070000" />
+    <ImageTarget name="Marine_Dolphin" size="0.070000 0.070000" />
+    <ImageTarget name="Tundra_PineTree" size="0.070000 0.070000" />
+    <ImageTarget name="Grassland_Grass" size="0.070000 0.070000" />
+    <ImageTarget name="Forest_Rock" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_Cactus" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_Lizard" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_WildBoar" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_Camel" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_Snake" size="0.070000 0.070000" />
+    <ImageTarget name="Desert_Spider" size="0.070000 0.070000" />
+    <ImageTarget name="Marine_Jellyfish" size="0.070000 0.070000" />
+    <ImageTarget name="Tundra_PolarBear" size="0.070000 0.070000" />
+    <ImageTarget name="Tundra_Walrus" size="0.070000 0.070000" />
+    <ImageTarget name="Tundra_Penguin" size="0.070000 0.070000" />
+    <ImageTarget name="Marine_Shark" size="0.070000 0.070000" />
+    <ImageTarget name="Marine_Orca" size="0.070000 0.070000" />
+    <ImageTarget name="Forest_Tiger" size="0.070000 0.070000" />
+    <ImageTarget name="Forest_Panda" size="0.070000 0.070000" />
+    <ImageTarget name="Forest_Fox" size="0.070000 0.070000" />
+    <ImageTarget name="Forest_Deer" size="0.070000 0.070000" />
+    <ImageTarget name="Grassland_Lion" size="0.070000 0.070000" />
+    <ImageTarget name="Grassland_Giraffe" size="0.070000 0.070000" />
+    <ImageTarget name="Grassland_Zebra" size="0.070000 0.070000" />
+  </Tracking>
+</QCARConfig>

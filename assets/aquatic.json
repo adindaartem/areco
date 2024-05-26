@@ -1,0 +1,175 @@
+[
+ {
+   "title": "Grassland",
+   "desc": "A grassland is an area where the vegetation is dominated by grasses. However, sedge and rush can also be found along with variable proportions of legumes, like clover, and other herbs. Grasslands occur naturally on all continents except Antarctica and are found in most ecoregions of the Earth.",
+   "img_url": "assets/grassland.png",
+   "animals": [
+     {
+       "name": "Lion",
+       "desc": "The lion (Panthera leo) is a large cat of the genus Panthera, native to Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane. It is a social species, forming groups called prides. A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator; although some lions scavenge when opportunities occur and have been known to hunt humans, lions typically do not actively seek out and prey on humans. ",
+       "img_url": "assets/animal/lion.png",
+      "audio": "audio/lion.mp3"
+     },
+     {
+       "name": "Giraffe",
+       "desc": "The giraffe, a majestic creature of the African savannas, stands as the tallest land animal, with males towering up to 18 feet and females slightly shorter, distinguished by their iconic long necks composed of only seven vertebrae. Their coat, a patchwork of irregular spots in varying shades of brown, adds to their distinctiveness, with each individual bearing a unique pattern akin to a human fingerprint. These herbivores roam vast territories, their elongated necks granting access to otherwise unreachable foliage. Social beings, giraffes form loose groups called towers, comprising females and their young, with males often forming smaller bachelor herds. Communicating through vocalizations, they navigate their environments with grace, even amidst the challenges posed by habitat loss and human-wildlife conflict. Female giraffes gestate for about 15 months, giving birth to single calves who emerge into the world already standing, a testament to their resilience. Despite their remarkable adaptations, giraffe populations face threats from poaching and habitat destruction, earning them a vulnerable status on the IUCN Red List. Conservation efforts are crucial to ensuring the survival of these extraordinary creatures and the ecosystems they inhabit.",
+       "img_url": "assets/animal/giraffe.png",
+       "audio": "audio/girrafe.mp3"
+     },
+     {
+       "name": "Zebra",
+       "desc": "The zebra, with its striking black and white striped coat, is an iconic symbol of the African savanna. These herbivorous mammals are known for their social behavior and remarkable agility. Zebras typically roam the grasslands and savannas of Africa in small herds, grazing on grass and occasionally browsing on leaves and shoots. Their distinctive stripes serve as a form of camouflage, confusing predators such as lions and hyenas. Zebras are highly social animals, often forming strong bonds within their herds and communicating through various vocalizations and body language. They also exhibit fascinating behaviors such as mutual grooming and standing guard while others in the herd rest. Female zebras give birth to a single foal after a gestation period of around 12 months. The young foals quickly learn to stand and run shortly after birth, essential skills for survival in the wild. While zebras are not considered endangered, they do face threats from habitat loss, poaching, and competition with livestock for resources. Conservation efforts are essential to ensure the long-term survival of these magnificent creatures and the ecosystems they inhabit.",
+       "img_url": "assets/animal/zebra.png",
+       "audio": "audio/zebra.mp3"
+     },
+     {
+       "name": "Grass",
+       "desc": "Grass, ubiquitous and often overlooked, is one of the most foundational components of terrestrial ecosystems, playing a crucial role in supporting life on Earth. As a primary producer, grass serves as the primary food source for a multitude of herbivores, ranging from insects to large mammals like cattle and buffalo. Its ability to photosynthesize, converting sunlight into energy, not only sustains these herbivores but also indirectly supports carnivores higher up the food chain. Beyond its role as food, grasses also contribute to soil stability, preventing erosion with their extensive root systems, and promoting water infiltration, which aids in groundwater recharge. Moreover, grasslands, dominated by various species of grasses, form diverse habitats teeming with a plethora of plant and animal species, including birds, insects, and small mammals. Grasses have also played a significant role in human history, serving as the foundation for agriculture and pasturelands, fueling civilizations and shaping landscapes. Despite its humble appearance, grass is a vital component of Earth's ecosystems, supporting biodiversity, regulating climate, and providing essential ecosystem services crucial for life as we know it.",
+       "img_url": "assets/animal/grass.png",
+       "audio": ""
+     }
+   ]
+ },
+ {
+   "title": "Forest",
+   "desc": "A forest is a densely wooded area of vegetation dominated by trees.",
+   "img_url": "assets/forest.png",
+   "animals": [
+     {
+       "name": "Tiger",
+       "desc": "The tiger, scientifically known as Panthera tigris, is the largest cat species and a formidable predator found in various habitats across Asia. Known for its striking orange coat with black stripes, the tiger possesses powerful limbs and sharp claws, making it an agile and efficient hunter. Tigers are solitary animals, typically hunting at night for prey such as deer, wild boar, and other large mammals. Unfortunately, due to habitat loss and poaching, many tiger subspecies are endangered, highlighting the urgent need for conservation efforts to protect these majestic creatures.",
+       "img_url": "assets/animal/tiger.png",
+       "audio": "audio/tiger.mp3"
+     },
+     {
+       "name": "Panda",
+       "desc": "The panda, also known as the giant panda or panda bear, is a unique and beloved species native to the mountainous regions of central China. Known for its distinctive black-and-white fur pattern, the panda has a rotund body and a large head with black patches around its eyes, ears, and across its body, giving it an endearing appearance. Pandas primarily feed on bamboo, although they are technically omnivores and may also consume small rodents or carrion occasionally. Due to habitat loss and poaching, pandas were once endangered, but conservation efforts have helped increase their numbers in the wild. They symbolize conservation efforts worldwide and are considered national treasures of China.",
+       "img_url": "assets/animal/panda.png",
+       "audio": "audio/.mp3"
+     },
+     {
+       "name": "Fox",
+       "desc": "Foxes are known for their intelligence and cunning behavior, often using stealth and agility to catch their prey or evade predators. They are also solitary animals, although they may form small family groups during the breeding season.",
+       "img_url": "assets/animal/fox.png",
+       "audio": "audio/fox.mp3"
+     },
+     {
+       "name": "Deer",
+       "desc": "Deer are hoofed ruminant ungulates of the family Cervidae.  There are 43 species of deer found worldwide, divided into two subfamilies: Cervinae (Old World deer) and Capreolinae (New World deer) .  Male deer of almost all species (except the water deer), as well as female reindeer, grow and shed antlers each year. These antlers are bony extensions of the skull and are often used for combat between males to determine dominance and mating rights.",
+       "img_url": "assets/animal/deer.png",
+       "audio": "audio/deer.mp3"
+     },
+     {
+       "name": "Bear",
+       "desc": "Bears are large, powerful mammals belonging to the family Ursidae, known for their robust build, thick fur, and plantigrade posture (walking on the soles of their feet). They are found across various habitats in the Northern Hemisphere, including forests, mountains, tundra, and Arctic ice fields.",
+       "img_url": "assets/animal/bear.png",
+       "audio": "audio/bear.mp3"
+     },
+     {
+       "name": "Rock",
+       "desc": "\"Rock\" typically refers to a solid mineral substance that forms part of the Earth's crust. Rocks are composed of one or more minerals, organic materials, or other substances. They can vary greatly in size, shape, texture, and color, and they are classified into three main types based on their formation process: igneous, sedimentary, and metamorphic.",
+       "img_url": "assets/animal/rock.png",
+       "audio": ""
+     }
+   ]
+ },
+ {
+   "title": "Marine",
+   "desc": "The marine environment includes the oceans, seas, and other major water bodies on Earth.",
+   "img_url": "assets/marine.png",
+   "animals": [
+     {
+       "name": "Shark",
+       "desc": "Sharks are a group of cartilaginous fish belonging to the class Chondrichthyes. They are characterized by their streamlined bodies, powerful jaws filled with rows of sharp teeth, and cartilaginous skeletons (as opposed to bony skeletons found in most other fish species). Sharks are found in oceans all over the world, from shallow coastal waters to deep oceanic environments.",
+       "img_url": "assets/animal/shark.png",
+       "audio": ""
+     },
+     {
+       "name": "Orca",
+       "desc": "The orca, also known as the killer whale, is a highly intelligent and social marine mammal belonging to the dolphin family (Delphinidae). Despite its name, the orca is not a whale but the largest species of dolphin. Orcas are found in oceans around the world, from the Arctic to the Antarctic, and are apex predators in their ecosystems.",
+       "img_url": "assets/animal/orca.png",
+       "audio": ""
+     },
+     {
+       "name": "Jellyfish",
+       "desc": "Jellyfish are fascinating marine creatures belonging to the phylum Cnidaria. They are found in oceans worldwide, from the surface waters to the deep sea, and come in a variety of shapes, sizes, and colors. Jellyfish are characterized by their gelatinous, umbrella-shaped bells and trailing tentacles, which contain stinging cells called nematocysts used for hunting and defense.",
+       "img_url": "assets/animal/jellyfish.png",
+       "audio": ""
+     },
+     {
+       "name": "Dolphins",
+       "desc": "Dolphins are highly intelligent and sociable marine mammals belonging to the family Delphinidae, which also includes orcas and pilot whales. They are found in oceans and seas around the world, ranging from shallow coastal waters to deeper offshore habitats.",
+       "img_url": "assets/animal/dolphin.png",
+       "audio": ""
+     },
+     {
+       "name": "Fish",
+       "desc": "Fish are a diverse group of aquatic animals, characterized by their streamlined bodies and ability to breathe underwater through gills. They inhabit various aquatic environments worldwide and play crucial roles in ecosystems as both predators and prey. With a wide range of adaptations for swimming, feeding, and survival, fish are integral to maintaining the balance of aquatic food webs. While they have been a significant food source for humans for millennia, overfishing, habitat destruction, pollution, and climate change threaten fish populations and the health of aquatic ecosystems. Conservation efforts are essential to protect vulnerable species and restore degraded habitats, ensuring the continued well-being of both aquatic environments and human communities.",
+       "img_url": "assets/animal/fish.png",
+       "audio": ""
+     }
+   ]
+ },
+ {
+   "title": "Tundra",
+   "desc": "The tundra is a treeless biome where the soil is frozen for much of the year and the climate is extremely cold.",
+   "img_url": "assets/tundra.png",
+   "animals": [
+     {
+       "name": "Walrus",
+       "desc": "The walrus is a large marine mammal known for its distinctive appearance, including long tusks, a thick layer of blubber, and wrinkled skin. Found in Arctic waters around the North Pole, walruses are well adapted to their icy environment. They use their tusks to haul themselves out of the water onto ice floes and to break through ice to create breathing holes. Walruses primarily feed on clams, mollusks, and other bottom-dwelling creatures, using their sensitive whiskers to locate prey on the ocean floor. Despite their large size, walruses are agile swimmers and can dive to considerable depths in search of food. Unfortunately, walruses face threats from habitat loss due to climate change, as well as hunting and pollution. Conservation efforts are underway to protect these iconic Arctic animals and their fragile ecosystems.",
+       "img_url": "assets/animal/walrus.png",
+       "audio": "audio/walrus.mp3"
+     },
+     {
+       "name": "Penguin",
+       "desc": "Sporting their sleek black and white feathers, penguins are flightless birds who've conquered the oceans. Built for the water, their wings have transformed into powerful flippers, propelling them through the waves like torpedoes. On land, their waddle is comical, but underwater, they're graceful acrobats, diving deep to snatch krill and fish. These tuxedoed birds call the Southern Hemisphere home, with most species congregating in colonies on rocky coasts and icy shores. From the colossal emperor penguin, the largest of all, to the little penguin, barely bigger than a loaf of bread, these charismatic creatures fill their world with their fascinating social behaviors and unwavering dedication to raising their young.",
+       "img_url": "assets/animal/penguin.jpg",
+       "audio": "audio/penguin.mp3"
+     },
+     {
+       "name": "Polar Bear",
+       "desc": "Giant of the Arctic, the polar bear. White fur for icy stealth, powerful swimmer, hunts seals, solitary except for moms and cubs.  These incredible predators possess an amazing sense of smell, allowing them to sniff out prey from miles away.  Sadly, climate change threatens these majestic hunters.",
+       "img_url": "assets/animal/polar.png",
+       "audio": "audio/polar.mp3"
+     },
+     {
+       "name": "Pine Tree",
+       "desc": "Pine trees are recognizable by their long needle-like leaves and their woody cones that contain their seeds.  They are a keystone species in many ecosystems, providing habitat and food for a variety of wildlife. Pine trees are also a valuable source of lumber, paper, and other products.",
+       "img_url": "assets/animal/pine.png",
+       "audio": ""
+     }
+   ]
+ },
+ {
+   "title": "Desert",
+   "desc": "A desert is a barren area of landscape where little precipitation occurs and, consequently, living conditions are hostile for plant and animal life.",
+   "img_url": "assets/desert.png",
+   "animals": [
+     {
+       "name": "Wild Boar",
+       "desc": "The wild boar, also known as the Eurasian wild pig or common wild pig, is a tough and adaptable suid native to much Eurasia and North Africa . It has been introduced to many other parts of the world, including the Americas and Oceania, and is now one of the widest-ranging mammals on Earth.",
+       "img_url": "assets/animal/boar.png",
+       "audio": "audio/boar.mp3"
+     },
+     {
+       "name": "Spider",
+       "desc": "Spiders are predators that largely vary in size, behavior and venom potency. The vast majority of spiders are beneficial predators that control insect populations, while some species can be dangerous to humans.  Their primary prey are insects, and their eight-legged bodies are well-adapted for hunting.  They have excellent vision and can detect even the faintest vibrations in their webs.  Their mouthparts are designed to pierce the exoskeletons of their prey and inject venom that liquefies the insides, making them easier to consume.",
+       "img_url": "assets/animal/spider.png",
+       "audio": ""
+     },
+     {
+       "name": "Snake",
+       "desc": "Slithering serpents of the world, snakes are elongated, legless reptiles covered in scales. They come in a vast array of shapes and sizes, found on every continent except Antarctica.  Some species, like constrictors, squeeze their prey to death, while others, like vipers and cobras, have venomous bites that can be fatal. Snakes are both admired and feared for their silent movements, sharp tongues that taste the air, and piercing eyes.",
+       "img_url": "assets/animal/snake.png",
+       "audio": "audio/snake.mp3"
+     },
+     {
+       "name": "Cactus",
+       "desc": "Cacti are a group of flowering plants in the family Cactaceae, native to the Americas, from northern Canada to southern South America. There are over 1,750 described species of cacti, though the exact number is still being debated by taxonomists. Cacti come in a wide variety of shapes and sizes, from the towering saguaro cactus of the Sonoran Desert to the tiny pincushion cactus that can fit in the palm of your hand.",
+       "img_url": "assets/animal/cactus.png",
+       "audio": ""
+     }
+   ]
+ }
+]

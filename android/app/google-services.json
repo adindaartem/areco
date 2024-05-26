@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058758857057",
+    "project_id": "aquatic-59093",
+    "storage_bucket": "aquatic-59093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058758857057:android:33c83b21c5347b2fdd7520",
+        "android_client_info": {
+          "package_name": "com.example.aquatic_ar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcgOEcNcseeiytOlJjcgNvUrfsu9oIrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
